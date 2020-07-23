@@ -1,3 +1,4 @@
 1. deepchem still works on Tensorflow 1.x
 2. I am trying on colab since I don't have GPU.
 3. I will try to fix any issues if the come and I also try to make a keras compatible code for easy understanding.
+4. check check
