@@ -1,5 +1,6 @@
 ########################### important points
-1. deepchem still works on Tensorflow 1.x [colab versions: TF v1.15.2 , DC version is v2.30.0]
+1. My deepchem version works on Tensorflow 1.x [colab versions: TF v1.15.2 , DC version is v2.30.0]
+	1a: Deepchem for tensorflow v2 is available and deepchem >= v2.4.0 works
 2. I am trying on colab since I don't have GPU.
 3. I will try to fix any issues if the come and I also try to make a keras compatible code for easy understanding.
 4. the point below
