@@ -1,0 +1,10 @@
+molecule1 SMILE = CCCC(=O)CC(CC)CC1=CC=CCCC1C
+molecule1 IUPAC = 6-[(7-Methyl-1,3-cycloheptadien-1-yl)methyl]-4-octanone
+molecule2 SMILE = CCCCCC1CCCC12C(=O)NN2C
+molecule2 IUPAC = 1-Methyl-5-pentyl-1,2-diaza-3-spiro[3.4]octanone
+molecule3 SMILE = CCCCCCCCNC(=O)C1=C(C(=O)OCC)C=CC=CC1
+molecule3 IUPAC = Ethyl 2-(N-octylcarbamoyl)-1,4,6-cycloheptatriene-1-carboxylate
+molecule4 SMILE = CCCCCC1CC=C1C(=O)CNNNC(=O)CN
+molecule4 IUPAC = 2-Amino-1-{3-[2-oxo-2-(4-pentyl-1-cyclobuten-1-yl)ethyl]triazanyl}-1-ethanone
+molecule5 SMILE = Cc1nnccc1CCCCCCCCN
+molecule5 IUPAC = 8-(3-Methyl-4-pyridazinyl)octylamine
