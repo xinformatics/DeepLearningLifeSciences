@@ -31,8 +31,8 @@
     import deepchem as dc
     dc.__version__ #should match with the installed
 
-## The best topic according to me is generative networks
+## Best topic in my opinion is generative networks
 
-> I attempted the tutotial in the book and generated the following molecules, it doesn't matter if they are biologically not feasible. I feel generative networks are form of art
+> I attempted the tutotial in the book and generated the following molecules, it doesn't matter if they are biologically not feasible. I feel generative networks is a way express art.
 
 ![collage](https://github.com/xinformatics/DeepLearningLifeSciences/blob/master/Chapter09/collage.png)
