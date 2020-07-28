@@ -8,3 +8,5 @@ molecule4 SMILE = CCCCCC1CC=C1C(=O)CNNNC(=O)CN
 molecule4 IUPAC = 2-Amino-1-{3-[2-oxo-2-(4-pentyl-1-cyclobuten-1-yl)ethyl]triazanyl}-1-ethanone
 molecule5 SMILE = Cc1nnccc1CCCCCCCCN
 molecule5 IUPAC = 8-(3-Methyl-4-pyridazinyl)octylamine
+molecule6 SMILE = CC1=CCC12CCC21NCCCCN1
+molecule6 IUPAC = 1-Methyl-6,11-diaza-1-dispiro[3.0.6.2]tridecene
