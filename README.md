@@ -30,9 +30,18 @@
 
     import deepchem as dc
     dc.__version__ #should match with the installed
+    
+    
+# Extra work done after following the tutorials
 
-## Best topic in my opinion is generative networks
+## Generative networks| Variational Autoencoders and GANs
 
 > I attempted the tutotial in the book and generated the following molecules, it doesn't matter if they are biologically not feasible. I feel generative networks is a way express art.
 
 ![collage](https://github.com/xinformatics/DeepLearningLifeSciences/blob/master/Chapter09/collage.png)
+
+## Model Interpretation | JUND binding sites
+
+> DL finds the motifs of JUND binding on DNA
+
+![collage](https://github.com/xinformatics/DeepLearningLifeSciences/blob/master/Chapter10/JUND_binding_small.jpg)
