@@ -1,0 +1,10 @@
+make a zip of data and upload to colab from the directory bar.
+data would be deleted if the runtime disconnects / closes
+
+
+
+#extractall() with any argument will extract everything in the same directory 
+# this is what is expected
+import zipfile
+with zipfile.ZipFile('tocolabch6.zip', 'r') as zip_ref:
+    zip_ref.extractall()

@@ -30,4 +30,6 @@ import deepchem as dc
 dc.__version__ #should match with the installed
 
 ######################################################################################
+Chapters 1,2 and 12 do not have any exercises
+######################################################################################
 
