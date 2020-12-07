@@ -36,7 +36,7 @@
 
 ## Generative networks| Variational Autoencoders and GANs
 
-> I attempted the tutotial in the book and generated the following molecules, it doesn't matter if they are biologically not feasible. I feel generative networks is a way express art.
+> I attempted the tutotial in the book and generated the following molecules, it doesn't matter if they are biologically not feasible. I feel generative networks is a way of expressing art.
 
 ![collage](https://github.com/xinformatics/DeepLearningLifeSciences/blob/master/Chapter09/collage.png)
 
